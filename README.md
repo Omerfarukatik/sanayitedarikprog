@@ -1,12 +1,5 @@
-# Music App Login and register UI
+# Mobil Programlama
 
-## Run
-```flutter
-git clone https://github.com/Fadilix/FlutterMusicLoginUI.git
-flutter clean
-flutter packages get
-flutter run
-```
 
 ## Screenshots
 <img width="250" src="https://github.com/Fadilix/FlutterMusicLoginUI/assets/121851593/8125971b-480f-4225-a960-5e0a08c0b15a">
