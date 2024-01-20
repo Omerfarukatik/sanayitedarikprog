@@ -1,4 +1,4 @@
-# Music App Login and register UI
+# Santeam Mobil Uygulaması
 
 ## Run
 ```flutter
@@ -9,7 +9,7 @@ flutter run
 ```
 
 ## Screenshots
-<img width="250" src="https://github.com/Fadilix/FlutterMusicLoginUI/assets/121851593/8125971b-480f-4225-a960-5e0a08c0b15a">
+![Screenshot_1705764799](https://github.com/Omerfarukatik/sanayitedarikprog/assets/91981838/a9b46c5d-3de6-463c-9a0f-335b940db8ec)
 
 <img width="250" src="https://github.com/Fadilix/FlutterMusicLoginUI/assets/121851593/1405fcc5-6014-46c1-97cf-303d0f39da4a">
 
