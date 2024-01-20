@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mobil Programlama
 
 
@@ -24,3 +25,6 @@ Created reusable components:
 
 # dependencies:
 - google_fonts for the font used in the project
+=======
+Mobil Programlama Ödevi
+>>>>>>> ef674216559db4eb5d915b41ebb878631f4f3a76
