@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "131523523763",
+    "project_id": "final-mobil-afa3d",
+    "storage_bucket": "final-mobil-afa3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131523523763:android:13036c217f297081fe2cc6",
+        "android_client_info": {
+          "package_name": "com.example.music_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH7GPflmnEYrPPhnUr4LEN2CHnYl74SUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
