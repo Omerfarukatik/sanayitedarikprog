@@ -9,9 +9,8 @@ flutter run
 ```
 
 ## Screenshots
-![Screenshot_1705764799](https://github.com/Omerfarukatik/sanayitedarikprog/assets/91981838/a9b46c5d-3de6-463c-9a0f-335b940db8ec)
 
-<img width="250" src="https://github.com/Fadilix/FlutterMusicLoginUI/assets/121851593/1405fcc5-6014-46c1-97cf-303d0f39da4a">
+<img width="250" src="![Screenshot_1705764799](https://github.com/Omerfarukatik/sanayitedarikprog/assets/91981838/a9b46c5d-3de6-463c-9a0f-335b940db8ec)">
 
 <img width="250" src="https://github.com/Fadilix/FlutterMusicLoginUI/assets/121851593/a98a559f-ac8f-426a-b3fe-ee66adf7a716">
 
